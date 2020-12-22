@@ -44,7 +44,7 @@ p {
   max-width: 122.5rem;
   max-width:  1225px;
   margin: 0 auto;
-  padding: 0 4rem;
+  padding: 0;
 }
 /* Global style end */
 
@@ -291,7 +291,7 @@ figure.img-container:hover p {
 
 /* Footer start */
 footer {
-  padding:7rem 0 3rem;
+  padding: 7rem 3rem;
   background-color: var(--secondary-timeline-color);
   color: white;
   text-align: center;
@@ -429,6 +429,10 @@ footer h2{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media (min-width: 600px) {
+  .container {
+    padding: 0 4rem;
+  }
+
   .hero {
     background-attachment: fixed;
   }
@@ -512,6 +516,9 @@ footer h2{
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  .container {
+    padding: 0 4rem;
+  }
 
   .page-info {
     display: flex;
