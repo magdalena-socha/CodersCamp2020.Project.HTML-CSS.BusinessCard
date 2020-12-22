@@ -13,5 +13,5 @@ This project is for HTML & CSS practice (no JavaScript). The page is fully respo
 All the collages I made myself in Canva.
 
 ### Resources:
-  -[Fortepan](https://fortepan.hu/en/about-us/)
-  -[The Happy Broadcast](https://www.thehappybroadcast.com/)
+  - [Fortepan](https://fortepan.hu/en/about-us/)
+  - [The Happy Broadcast](https://www.thehappybroadcast.com/)
